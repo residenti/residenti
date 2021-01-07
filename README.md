@@ -8,7 +8,6 @@ I am Freelance web developer from Japan 🇯🇵.
 - [wantedly](https://www.wantedly.com/users/14837256)
 - [residenti ぶろぐ](https://residenti.github.io/)
 - [qiita](https://qiita.com/residenti)
-- [facebook](https://www.facebook.com/profile.php?id=100008694337379)
 
 ## ✨ Skill
 
