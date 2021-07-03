@@ -1,5 +1,5 @@
 Hey 👋  
-I am Freelance web developer from Japan 🇯🇵.
+I am Freelance Software Engineer from Japan 🇯🇵.
 
 ## &#x1f4c8; My GitHub Stats
 
